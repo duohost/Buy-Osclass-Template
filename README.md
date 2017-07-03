@@ -1,1 +1,1 @@
-# 2buy.lan
+# Buy Osclass Template
